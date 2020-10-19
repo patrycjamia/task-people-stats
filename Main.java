@@ -4,3 +4,6 @@ class Main {
     }
 }
 
+class PeopleStats {
+
+}
